@@ -1,0 +1,460 @@
+{"frames": {
+
+"Mage-Idle__000":
+{
+	"frame": {"x":1130,"y":1046,"w":278,"h":343},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":30,"w":278,"h":343},
+	"sourceSize": {"w":306,"h":379}
+},
+"Mage-Idle__001":
+{
+	"frame": {"x":1129,"y":700,"w":278,"h":344},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":29,"w":278,"h":344},
+	"sourceSize": {"w":306,"h":379}
+},
+"Mage-Idle__002":
+{
+	"frame": {"x":562,"y":1052,"w":278,"h":345},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":28,"w":278,"h":345},
+	"sourceSize": {"w":306,"h":379}
+},
+"Mage-Idle__003":
+{
+	"frame": {"x":562,"y":704,"w":278,"h":346},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":27,"w":278,"h":346},
+	"sourceSize": {"w":306,"h":379}
+},
+"Mage-Idle__004":
+{
+	"frame": {"x":850,"y":351,"w":278,"h":347},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":26,"w":278,"h":347},
+	"sourceSize": {"w":306,"h":379}
+},
+"Mage-Idle__005":
+{
+	"frame": {"x":570,"y":352,"w":278,"h":348},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":25,"w":278,"h":348},
+	"sourceSize": {"w":306,"h":379}
+},
+"Mage-Idle__006":
+{
+	"frame": {"x":290,"y":353,"w":278,"h":349},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":24,"w":278,"h":349},
+	"sourceSize": {"w":306,"h":379}
+},
+"Mage-Idle__007":
+{
+	"frame": {"x":282,"y":1411,"w":278,"h":350},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":23,"w":278,"h":350},
+	"sourceSize": {"w":306,"h":379}
+},
+"Mage-Idle__008":
+{
+	"frame": {"x":282,"y":1058,"w":278,"h":351},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":22,"w":278,"h":351},
+	"sourceSize": {"w":306,"h":379}
+},
+"Mage-Idle__009":
+{
+	"frame": {"x":282,"y":704,"w":278,"h":352},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":21,"w":278,"h":352},
+	"sourceSize": {"w":306,"h":379}
+},
+"Mage-Idle__010":
+{
+	"frame": {"x":2,"y":1417,"w":278,"h":353},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":20,"w":278,"h":353},
+	"sourceSize": {"w":306,"h":379}
+},
+"Mage-Idle__011":
+{
+	"frame": {"x":2,"y":1061,"w":278,"h":354},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":19,"w":278,"h":354},
+	"sourceSize": {"w":306,"h":379}
+},
+"Mage-Idle__012":
+{
+	"frame": {"x":2,"y":704,"w":278,"h":355},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":18,"w":278,"h":355},
+	"sourceSize": {"w":306,"h":379}
+},
+"Mage-Idle__013":
+{
+	"frame": {"x":2,"y":1061,"w":278,"h":354},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":19,"w":278,"h":354},
+	"sourceSize": {"w":306,"h":379}
+},
+"Mage-Idle__014":
+{
+	"frame": {"x":2,"y":1417,"w":278,"h":353},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":20,"w":278,"h":353},
+	"sourceSize": {"w":306,"h":379}
+},
+"Mage-Idle__015":
+{
+	"frame": {"x":282,"y":704,"w":278,"h":352},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":21,"w":278,"h":352},
+	"sourceSize": {"w":306,"h":379}
+},
+"Mage-Idle__016":
+{
+	"frame": {"x":282,"y":1058,"w":278,"h":351},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":22,"w":278,"h":351},
+	"sourceSize": {"w":306,"h":379}
+},
+"Mage-Idle__017":
+{
+	"frame": {"x":282,"y":1411,"w":278,"h":350},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":23,"w":278,"h":350},
+	"sourceSize": {"w":306,"h":379}
+},
+"Mage-Idle__018":
+{
+	"frame": {"x":290,"y":353,"w":278,"h":349},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":24,"w":278,"h":349},
+	"sourceSize": {"w":306,"h":379}
+},
+"Mage-Idle__019":
+{
+	"frame": {"x":570,"y":352,"w":278,"h":348},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":25,"w":278,"h":348},
+	"sourceSize": {"w":306,"h":379}
+},
+"Mage-Idle__020":
+{
+	"frame": {"x":850,"y":351,"w":278,"h":347},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":26,"w":278,"h":347},
+	"sourceSize": {"w":306,"h":379}
+},
+"Mage-Idle__021":
+{
+	"frame": {"x":562,"y":704,"w":278,"h":346},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":27,"w":278,"h":346},
+	"sourceSize": {"w":306,"h":379}
+},
+"Mage-Idle__022":
+{
+	"frame": {"x":562,"y":1052,"w":278,"h":345},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":28,"w":278,"h":345},
+	"sourceSize": {"w":306,"h":379}
+},
+"Mage-Idle__023":
+{
+	"frame": {"x":1129,"y":700,"w":278,"h":344},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":29,"w":278,"h":344},
+	"sourceSize": {"w":306,"h":379}
+},
+"Mage-Skill__000":
+{
+	"frame": {"x":1706,"y":350,"w":288,"h":343},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":78,"y":76,"w":288,"h":343},
+	"sourceSize": {"w":444,"h":429}
+},
+"Mage-Skill__001":
+{
+	"frame": {"x":1131,"y":1391,"w":280,"h":343},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":72,"y":70,"w":280,"h":343},
+	"sourceSize": {"w":444,"h":429}
+},
+"Mage-Skill__002":
+{
+	"frame": {"x":1409,"y":699,"w":276,"h":342},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":62,"y":66,"w":276,"h":342},
+	"sourceSize": {"w":444,"h":429}
+},
+"Mage-Skill__003":
+{
+	"frame": {"x":1687,"y":697,"w":272,"h":340},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":53,"y":62,"w":272,"h":340},
+	"sourceSize": {"w":444,"h":429}
+},
+"Mage-Skill__004":
+{
+	"frame": {"x":1699,"y":1379,"w":265,"h":337},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":59,"w":265,"h":337},
+	"sourceSize": {"w":444,"h":429}
+},
+"Mage-Skill__005":
+{
+	"frame": {"x":1961,"y":697,"w":263,"h":336},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":44,"y":58,"w":263,"h":336},
+	"sourceSize": {"w":444,"h":429}
+},
+"Mage-Skill__006":
+{
+	"frame": {"x":1970,"y":1035,"w":262,"h":334},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":43,"y":58,"w":262,"h":334},
+	"sourceSize": {"w":444,"h":429}
+},
+"Mage-Skill__007":
+{
+	"frame": {"x":2226,"y":697,"w":261,"h":333},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":41,"y":57,"w":261,"h":333},
+	"sourceSize": {"w":444,"h":429}
+},
+"Mage-Skill__008":
+{
+	"frame": {"x":2234,"y":1032,"w":260,"h":332},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":56,"w":260,"h":332},
+	"sourceSize": {"w":444,"h":429}
+},
+"Mage-Skill__009":
+{
+	"frame": {"x":1966,"y":1379,"w":261,"h":332},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":38,"y":55,"w":261,"h":332},
+	"sourceSize": {"w":444,"h":429}
+},
+"Mage-Skill__010":
+{
+	"frame": {"x":1966,"y":1713,"w":261,"h":332},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":38,"y":55,"w":261,"h":332},
+	"sourceSize": {"w":444,"h":429}
+},
+"Mage-Skill__011":
+{
+	"frame": {"x":2229,"y":1700,"w":261,"h":332},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":38,"y":54,"w":261,"h":332},
+	"sourceSize": {"w":444,"h":429}
+},
+"Mage-Skill__012":
+{
+	"frame": {"x":2234,"y":1366,"w":260,"h":332},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":53,"w":260,"h":332},
+	"sourceSize": {"w":444,"h":429}
+},
+"Mage-Skill__013":
+{
+	"frame": {"x":1698,"y":1039,"w":270,"h":338},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":55,"y":56,"w":270,"h":338},
+	"sourceSize": {"w":444,"h":429}
+},
+"Mage-Skill__014":
+{
+	"frame": {"x":562,"y":1399,"w":280,"h":345},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":70,"y":58,"w":280,"h":345},
+	"sourceSize": {"w":444,"h":429}
+},
+"Mage-Skill__015":
+{
+	"frame": {"x":2,"y":353,"w":286,"h":349},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":63,"w":286,"h":349},
+	"sourceSize": {"w":444,"h":429}
+},
+"Mage-Skill__016":
+{
+	"frame": {"x":2,"y":2,"w":287,"h":349},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":108,"y":72,"w":287,"h":349},
+	"sourceSize": {"w":444,"h":429}
+},
+"Mage-Skill__017":
+{
+	"frame": {"x":291,"y":2,"w":288,"h":348},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":111,"y":73,"w":288,"h":348},
+	"sourceSize": {"w":444,"h":429}
+},
+"Mage-Skill__018":
+{
+	"frame": {"x":581,"y":2,"w":288,"h":347},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":115,"y":74,"w":288,"h":347},
+	"sourceSize": {"w":444,"h":429}
+},
+"Mage-Skill__019":
+{
+	"frame": {"x":1418,"y":349,"w":286,"h":346},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":120,"y":75,"w":286,"h":346},
+	"sourceSize": {"w":444,"h":429}
+},
+"Mage-Skill__020":
+{
+	"frame": {"x":842,"y":1049,"w":286,"h":344},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":124,"y":77,"w":286,"h":344},
+	"sourceSize": {"w":444,"h":429}
+},
+"Mage-Skill__021":
+{
+	"frame": {"x":844,"y":1395,"w":285,"h":342},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":128,"y":79,"w":285,"h":342},
+	"sourceSize": {"w":444,"h":429}
+},
+"Mage-Skill__022":
+{
+	"frame": {"x":1413,"y":1387,"w":284,"h":340},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":132,"y":81,"w":284,"h":340},
+	"sourceSize": {"w":444,"h":429}
+},
+"Mage-Skill__023":
+{
+	"frame": {"x":1410,"y":1043,"w":286,"h":342},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":124,"y":79,"w":286,"h":342},
+	"sourceSize": {"w":444,"h":429}
+},
+"Mage-Skill__024":
+{
+	"frame": {"x":1996,"y":351,"w":287,"h":344},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":116,"y":77,"w":287,"h":344},
+	"sourceSize": {"w":444,"h":429}
+},
+"Mage-Skill__025":
+{
+	"frame": {"x":1161,"y":2,"w":288,"h":345},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":108,"y":76,"w":288,"h":345},
+	"sourceSize": {"w":444,"h":429}
+},
+"Mage-Skill__026":
+{
+	"frame": {"x":1451,"y":2,"w":287,"h":345},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":101,"y":76,"w":287,"h":345},
+	"sourceSize": {"w":444,"h":429}
+},
+"Mage-Skill__027":
+{
+	"frame": {"x":871,"y":2,"w":288,"h":346},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":97,"y":75,"w":288,"h":346},
+	"sourceSize": {"w":444,"h":429}
+},
+"Mage-Skill__028":
+{
+	"frame": {"x":1740,"y":2,"w":287,"h":346},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":75,"w":287,"h":346},
+	"sourceSize": {"w":444,"h":429}
+},
+"Mage-Skill__029":
+{
+	"frame": {"x":2029,"y":2,"w":287,"h":347},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":91,"y":75,"w":287,"h":347},
+	"sourceSize": {"w":444,"h":429}
+},
+"Mage-Skill__030":
+{
+	"frame": {"x":1130,"y":350,"w":286,"h":347},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":75,"w":286,"h":347},
+	"sourceSize": {"w":444,"h":429}
+},
+"Mage-Skill__031":
+{
+	"frame": {"x":842,"y":702,"w":285,"h":345},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":85,"y":75,"w":285,"h":345},
+	"sourceSize": {"w":444,"h":429}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "mage_skill.png",
+	"format": "RGBA8888",
+	"size": {"w":2496,"h":2047},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:1191e22cac72e11d7593fd7b0280f74d:690f935d123284dd670777726ee01504:54c0351e71e97982253812e32654b462$"
+}
+}
